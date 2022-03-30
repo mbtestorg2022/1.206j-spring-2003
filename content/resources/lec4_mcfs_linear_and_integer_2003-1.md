@@ -6,6 +6,7 @@ description: 'This lecture covers Applications, Problem definition, Formulations
   branch-and-bound and column generation) and Results.'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/1-206j-airline-schedule-planning-spring-2003/7ad417e363fe9d75f0d3f5fe2a5947c4_lec4_mcfs_linear_and_integer_2003.pdf
 file_type: application/pdf
+parent_uid: 68b71b6e-90ee-277f-e51d-ce264d1603d5
 resourcetype: Document
 title: lec4_mcfs_linear_and_integer_2003.pdf
 uid: 7ad417e3-63fe-9d75-f0d3-f5fe2a5947c4
