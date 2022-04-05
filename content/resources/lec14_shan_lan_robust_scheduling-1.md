@@ -6,6 +6,11 @@ description: This lecture details about background, motivation, our contribution
   and also about some future research directions.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/1-206j-airline-schedule-planning-spring-2003/9b4d1f907102621e7d420d4b348f95ee_lec14_shan_lan_robust_scheduling.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 parent_uid: 68b71b6e-90ee-277f-e51d-ce264d1603d5
 resourcetype: Document
 title: lec14_shan_lan_robust_scheduling.pdf

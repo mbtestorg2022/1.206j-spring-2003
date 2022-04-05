@@ -4,6 +4,11 @@ description: 'This is an Excel file containing the following sheets: Flight, Tim
   Network, Itinerary, Recapture Rate, Part A, Part B1, Part B2, and Question 8.'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/1-206j-airline-schedule-planning-spring-2003/5d3b8c0dfa6b1958c4ec8711cc93b095_assn1_input_spreadsheet.xls
 file_type: application/msword
+learning_resource_types:
+- Assignments
+ocw_type: OCWFile
+parent_title: Assignments
+parent_type: CourseSection
 parent_uid: 12e64ede-4cb8-8052-c595-66f66df48aff
 resourcetype: Other
 title: assn1_input_spreadsheet.xls

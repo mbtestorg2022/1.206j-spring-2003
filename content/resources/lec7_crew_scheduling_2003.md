@@ -3,6 +3,11 @@ content_type: resource
 description: ''
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/1-206j-airline-schedule-planning-spring-2003/988097fca82497ea57de0360dfada884_lec7_crew_scheduling_2003.ppt
 file_type: application/msword
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 parent_uid: 68b71b6e-90ee-277f-e51d-ce264d1603d5
 resourcetype: Other
 title: lec7_crew_scheduling_2003.ppt

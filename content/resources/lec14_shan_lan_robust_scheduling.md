@@ -3,6 +3,11 @@ content_type: resource
 description: ''
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/1-206j-airline-schedule-planning-spring-2003/0647012fd7fe23f1c38261ad9e8e280e_lec14_Shan_Lan_Robust_scheduling.ppt
 file_type: application/msword
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 parent_uid: 68b71b6e-90ee-277f-e51d-ce264d1603d5
 resourcetype: Other
 title: lec14_Shan_Lan_Robust_scheduling.ppt
